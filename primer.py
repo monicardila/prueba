@@ -9,7 +9,9 @@ class Persona:
 
 
 def main():
-    test = Persona("Monia")
+    limite = 10
+    for n in range(limite):
+        print("monica")
 
 
 if __name__ == "__main__":
